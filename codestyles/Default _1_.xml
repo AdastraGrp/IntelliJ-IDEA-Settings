@@ -1,7 +1,4 @@
 <code_scheme name="Default (1)">
-  <JavaCodeStyleSettings>
-    <option name="DO_NOT_WRAP_AFTER_SINGLE_ANNOTATION" value="true" />
-  </JavaCodeStyleSettings>
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
@@ -9,6 +6,7 @@
     <option name="BLANK_LINES_AROUND_FIELD" value="1" />
     <option name="BLANK_LINES_AROUND_FIELD_IN_INTERFACE" value="1" />
     <option name="BLANK_LINES_AFTER_CLASS_HEADER" value="1" />
+    <option name="METHOD_ANNOTATION_WRAP" value="0" />
     <option name="FIELD_ANNOTATION_WRAP" value="0" />
     <arrangement>
       <groups />
