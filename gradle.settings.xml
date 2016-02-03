@@ -1,5 +1,6 @@
 <application>
   <component name="GradleSystemSettings">
     <option name="gradleVmOptions" value="-Xmx2048M" />
+    <option name="offlineWork" value="true" />
   </component>
 </application>
